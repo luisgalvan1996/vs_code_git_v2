@@ -1,0 +1,19 @@
+# Ignorar archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos de configuración locales de VS Code
+.vscode/
+
+# Archivos de pruebas
+*.log
+*.pytest_cache/
+
+# Archivos de imágenes o PDF que no quieres guardar
+*.png
+*.pdf
